@@ -1,0 +1,457 @@
+equipo,edicion,pais,valor_mercado,promedio_valor_mercado,promedio_edad,cantidad_jugadores,cantidad_jugadores_extranjeros,puntos_ranking_liga,fase_inicio,fase_termino
+Clube de Regatas do Flamengo,2020,Brasil,152.2,2.8185185185185184,22.5,54,6,964.0,Fase de Grupos,Octavos de Final
+Sociedade Esportiva Palmeiras,2020,Brasil,104.55,1.8342105263157895,22.6,57,8,964.0,Fase de Grupos,Campeón
+Club Atlético River Plate,2020,Argentina,136.23,3.7841666666666662,25.2,36,7,603.0,Fase de Grupos,Semifinales
+Club Atlético Boca Juniors,2020,Argentina,105.53,2.705897435897436,24.6,39,6,603.0,Fase de Grupos,Semifinales
+Grêmio Foot-Ball Porto Alegrense,2020,Brasil,106.6,2.1319999999999997,24.8,50,5,964.0,Fase de Grupos,Cuartos de Final
+São Paulo Futebol Clube,2020,Brasil,77.13,1.641063829787234,22.9,47,6,964.0,Fase de Grupos,Fase de Grupos
+Sport Club Corinthians Paulista,2020,Brasil,94.85,1.6937499999999999,23.8,56,7,964.0,Fase 2,Fase 2
+Sport Club Internacional,2020,Brasil,59.9,1.3613636363636363,24.0,44,9,964.0,Fase 2,Octavos de Final
+Santos FC,2020,Brasil,54.85,0.9972727272727273,22.4,55,6,964.0,Fase de Grupos,Final
+Club Athletico Paranaense,2020,Brasil,40.73,0.8146,23.2,50,3,964.0,Fase de Grupos,Octavos de Final
+Racing Club,2020,Argentina,49.25,1.2960526315789473,25.5,38,7,603.0,Fase de Grupos,Cuartos de Final
+Club Libertad Asunción,2020,Paraguay,23.55,0.7136363636363636,25.9,33,8,610.5,Fase de Grupos,Cuartos de Final
+Defensa y Justicia,2020,Argentina,42.75,0.7916666666666666,22.6,54,5,603.0,Fase de Grupos,Fase de Grupos
+Club Cerro Porteño,2020,Paraguay,19.95,0.43369565217391304,24.2,46,8,610.5,Fase 2,Fase 3
+CA Peñarol,2020,Uruguay,17.85,0.42500000000000004,24.7,42,6,381.0,Fase de Grupos,Fase de Grupos
+Junior de Barranquilla,2020,Colombia,25.73,0.83,26.2,31,2,552.0,Fase de Grupos,Fase de Grupos
+CD Universidad Católica,2020,Chile,14.2,0.3641025641025641,23.9,39,7,365.0,Fase de Grupos,Fase de Grupos
+Club Olimpia Asunción,2020,Paraguay,20.18,0.5045,26.5,40,9,610.5,Fase de Grupos,Fase de Grupos
+Deportes Tolima,2020,Colombia,23.13,0.7228125,24.6,32,3,552.0,Fase 2,Fase 3
+Club Nacional,2020,Uruguay,12.95,0.3083333333333333,21.9,42,7,381.0,Fase de Grupos,Cuartos de Final
+Independiente del Valle,2020,Ecuador,14.9,0.3547619047619048,22.0,42,8,579.5,Fase de Grupos,Octavos de Final
+CD América de Cali,2020,Colombia,20.23,0.5323684210526316,23.7,38,5,552.0,Fase de Grupos,Fase de Grupos
+LDU Quito,2020,Ecuador,20.83,0.5951428571428571,24.2,35,8,579.5,Fase de Grupos,Octavos de Final
+Barcelona SC Guayaquil,2020,Ecuador,17.75,0.4797297297297297,24.6,37,7,579.5,Fase 1,Fase de Grupos
+CSD Colo Colo,2020,Chile,19.85,0.4616279069767442,24.4,43,8,365.0,Fase de Grupos,Fase de Grupos
+Club Atlético Tucumán,2020,Argentina,13.3,0.40303030303030307,24.9,33,0,603.0,Fase 2,Fase 3
+Universidad de Chile,2020,Chile,9.5,0.296875,23.7,32,8,365.0,Fase 2,Fase 2
+Independiente Medellín,2020,Colombia,15.2,0.38,22.7,40,6,552.0,Fase 2,Fase 3
+Club Guaraní,2020,Paraguay,19.23,0.5655882352941176,23.5,34,11,610.5,Fase 1,Octavos de Final
+Bolívar La Paz,2020,Bolivia,15.15,0.38846153846153847,23.8,39,10,293.0,Fase de Grupos,Fase de Grupos
+CD Palestino,2020,Chile,10.98,0.2967567567567568,24.3,37,7,365.0,Fase 2,Fase 3
+Delfín SC,2020,Ecuador,15.2,0.44705882352941173,25.4,34,8,579.5,Fase de Grupos,Octavos de Final
+Club Atlético Tigre,2020,Argentina,9.24,0.3696,26.5,25,0,603.0,Fase de Grupos,Fase de Grupos
+The Strongest La Paz,2020,Bolivia,4.65,0.1660714285714286,26.3,28,6,293.0,Fase 2,Fase 2
+Club Sporting Cristal,2020,Perú,8.5,0.265625,22.1,32,6,290.0,Fase 2,Fase 2
+Universitario de Deportes,2020,Perú,8.8,0.303448275862069,23.8,29,5,290.0,Fase 1,Fase 2
+Club Alianza Lima,2020,Perú,9.5,0.27941176470588236,24.3,34,7,290.0,Fase de Grupos,Fase de Grupos
+Club Jorge Wilstermann ,2020,Bolivia,10.93,0.3312121212121212,27.3,33,9,293.0,Fase de Grupos,Octavos de Final
+CD Macará,2020,Ecuador,9.95,0.32096774193548383,25.4,31,8,579.5,Fase 2,Fase 2
+Cerro Largo FC,2020,Uruguay,5.93,0.16027027027027027,23.5,37,5,381.0,Fase 2,Fase 2
+Caracas FC,2020,Venezuela,7.3,0.1825,21.6,40,2,187.0,Fase de Grupos,Fase de Grupos
+Deportivo Binacional,2020,Perú,8.28,0.25875,26.6,32,6,290.0,Fase de Grupos,Fase de Grupos
+Club Atlético Progreso,2020,Uruguay,4.95,0.13026315789473686,24.1,38,3,381.0,Fase 1,Fase 1
+Deportivo Táchira,2020,Venezuela,4.95,0.1546875,22.7,32,3,187.0,Fase 2,Fase 2
+Estudiantes de Mérida,2020,Venezuela,5.35,0.1445945945945946,22.6,37,5,187.0,Fase de Grupos,Fase de Grupos
+Carabobo FC,2020,Venezuela,3.73,0.09564102564102564,22.2,39,1,187.0,Fase 1,Fase 1
+Club Deportivo San José Oruro,2020,Bolivia,0.575,0.024999999999999998,26.5,23,4,293.0,Fase 1,Fase 1
+Clube de Regatas do Flamengo,2019,Brasil,120.05,2.667777777777778,23.7,45,7,1165.0,Fase de Grupos,Campeón
+Sociedade Esportiva Palmeiras,2019,Brasil,138.85,2.892708333333333,26.1,48,4,1165.0,Fase de Grupos,Cuartos de Final
+Club Atlético River Plate,2019,Argentina,148.25,3.3693181818181817,24.7,44,8,776.0,Fase de Grupos,Final
+Clube Atlético Mineiro,2019,Brasil,58.98,1.1564705882352941,24.2,51,7,1165.0,Fase 2,Fase de Grupos
+Club Atlético Boca Juniors,2019,Argentina,144.0,2.526315789473684,24.1,57,11,776.0,Fase de Grupos,Semifinales
+Grêmio Foot-Ball Porto Alegrense,2019,Brasil,90.75,1.7794117647058822,23.5,51,2,1165.0,Fase de Grupos,Semifinales
+São Paulo Futebol Clube,2019,Brasil,97.0,1.6724137931034482,22.6,58,4,1165.0,Fase 2,Fase 2
+Sport Club Internacional,2019,Brasil,69.5,1.4787234042553192,24.7,47,8,1165.0,Fase de Grupos,Cuartos de Final
+Club Athletico Paranaense,2019,Brasil,45.25,0.8872549019607843,22.7,51,6,1165.0,Fase de Grupos,Octavos de Final
+Club Atlético Talleres,2019,Argentina,59.25,1.0042372881355932,22.0,59,11,776.0,Fase 2,Fase 3
+Club Libertad Asunción,2019,Paraguay,16.15,0.43648648648648647,24.1,37,6,755.5,Fase 2,Octavos de Final
+Club Atlético San Lorenzo de Almagro,2019,Argentina,92.9,1.5745762711864408,24.3,59,5,776.0,Fase de Grupos,Octavos de Final
+Club Deportivo Godoy Cruz Antonio Tomba,2019,Argentina,41.05,0.612686567164179,22.6,67,10,776.0,Fase de Grupos,Octavos de Final
+Club Cerro Porteño,2019,Paraguay,18.13,0.46487179487179486,24.9,39,10,755.5,Fase de Grupos,Cuartos de Final
+Atlético Nacional,2019,Colombia,30.88,0.6054901960784314,22.5,51,5,849.0,Fase 2,Fase 3
+CA Peñarol,2019,Uruguay,25.2,0.5478260869565217,23.7,46,5,447.0,Fase de Grupos,Fase de Grupos
+Club Atlético Rosario Central,2019,Argentina,31.0,0.5961538461538461,24.1,52,8,776.0,Fase de Grupos,Fase de Grupos
+Junior de Barranquilla,2019,Colombia,31.43,0.7483333333333333,25.1,42,6,849.0,Fase de Grupos,Fase de Grupos
+CD Universidad Católica,2019,Chile,19.65,0.5954545454545455,24.7,33,7,361.5,Fase de Grupos,Fase de Grupos
+Club Olimpia Asunción,2019,Paraguay,20.5,0.5694444444444444,26.8,36,6,755.5,Fase de Grupos,Octavos de Final
+Deportes Tolima,2019,Colombia,28.7,0.7972222222222222,24.6,36,7,849.0,Fase de Grupos,Fase de Grupos
+Club Nacional,2019,Uruguay,18.5,0.4625,24.3,40,6,447.0,Fase de Grupos,Octavos de Final
+Club Atlético Huracán,2019,Argentina,23.35,0.4096491228070176,24.1,57,7,776.0,Fase de Grupos,Fase de Grupos
+LDU Quito,2019,Ecuador,25.65,0.57,23.0,45,6,686.0,Fase de Grupos,Cuartos de Final
+Barcelona SC Guayaquil,2019,Ecuador,26.45,0.6297619047619047,24.7,42,7,686.0,Fase 2,Fase 2
+Universidad de Chile,2019,Chile,16.2,0.4909090909090909,24.9,33,7,361.5,Fase 2,Fase 2
+CS Emelec,2019,Ecuador,22.23,0.6008108108108108,25.1,37,7,686.0,Fase de Grupos,Octavos de Final
+Independiente Medellín,2019,Colombia,26.43,0.6006818181818182,23.3,44,2,849.0,Fase 2,Fase 2
+Cruzeiro Esporte Clube,2019,Brasil,54.18,1.204,23.9,45,4,1165.0,Fase de Grupos,Octavos de Final
+Bolívar La Paz,2019,Bolivia,6.38,0.319,26.7,20,7,433.0,Fase 1,Fase 1
+CD Palestino,2019,Chile,10.03,0.2710810810810811,23.7,37,9,361.5,Fase 2,Fase de Grupos
+Delfín SC,2019,Ecuador,11.2,0.38620689655172413,25.2,29,4,686.0,Fase 1,Fase 2
+The Strongest La Paz,2019,Bolivia,4.65,0.2021739130434783,27.0,23,6,433.0,Fase 2,Fase 2
+Club Sporting Cristal,2019,Perú,11.43,0.28575,22.1,40,5,383.0,Fase de Grupos,Fase de Grupos
+Club Nacional Asunción,2019,Paraguay,5.65,0.12555555555555556,23.3,45,6,755.5,Fase 1,Fase 1
+Club Alianza Lima,2019,Perú,13.7,0.4029411764705882,24.4,34,8,383.0,Fase de Grupos,Fase de Grupos
+FBC Melgar,2019,Perú,12.63,0.3323684210526316,23.2,38,6,383.0,Fase 2,Fase de Grupos
+Club Jorge Wilstermann ,2019,Bolivia,4.4,0.16296296296296298,26.9,27,6,433.0,Fase de Grupos,Fase de Grupos
+Caracas FC,2019,Venezuela,10.08,0.2057142857142857,22.6,49,6,425.0,Fase 2,Fase 3
+Cusco FC,2019,Perú,9.85,0.29848484848484846,26.1,33,7,383.0,Fase 1,Fase 1
+Danubio FC,2019,Uruguay,6.85,0.15568181818181817,21.8,44,1,447.0,Fase 2,Fase 2
+Defensor Sporting Club,2019,Uruguay,8.18,0.20974358974358973,23.0,39,2,447.0,Fase 1,Fase 3
+Deportivo La Guaira,2019,Venezuela,10.6,0.18596491228070175,23.0,57,9,425.0,Fase 1,Fase 2
+Universidad Concepción,2019,Chile,11.03,0.3151428571428571,25.5,35,11,361.5,Fase de Grupos,Fase de Grupos
+Deportivo Lara,2019,Venezuela,10.65,0.17459016393442622,23.4,61,8,425.0,Fase de Grupos,Fase de Grupos
+Zamora FC,2019,Venezuela,8.85,0.177,22.5,50,6,425.0,Fase de Grupos,Fase de Grupos
+Club Deportivo San José Oruro,2019,Bolivia,4.03,0.1612,29.0,25,5,433.0,Fase de Grupos,Fase de Grupos
+Clube de Regatas do Flamengo,2018,Brasil,122.13,2.544375,23.7,48,7,1043.0,Fase de Grupos,Octavos de Final
+Sociedade Esportiva Palmeiras,2018,Brasil,92.43,1.9256250000000001,24.6,48,4,1043.0,Fase de Grupos,Semifinales
+Club Atlético River Plate,2018,Argentina,148.58,3.376818181818182,24.3,44,10,902.0,Fase de Grupos,Campeón
+Club Atlético Boca Juniors,2018,Argentina,201.25,3.59375,23.8,56,11,902.0,Fase de Grupos,Final
+Grêmio Foot-Ball Porto Alegrense,2018,Brasil,110.2,1.8677966101694916,24.4,59,2,1043.0,Fase de Grupos,Semifinales
+Sport Club Corinthians Paulista,2018,Brasil,86.48,1.6014814814814815,24.2,54,6,1043.0,Fase de Grupos,Octavos de Final
+Santos FC,2018,Brasil,71.3,1.55,23.0,46,5,1043.0,Fase de Grupos,Octavos de Final
+Club Atlético Independiente,2018,Argentina,107.65,2.290425531914894,24.9,47,9,902.0,Fase de Grupos,Cuartos de Final
+Racing Club,2018,Argentina,79.23,1.5846,25.2,50,9,902.0,Fase de Grupos,Octavos de Final
+Club Libertad Asunción,2018,Paraguay,7.9,0.26333333333333336,27.4,30,3,697.0,Fase de Grupos,Octavos de Final
+Club Estudiantes de La Plata,2018,Argentina,32.0,0.6808510638297872,24.1,47,5,902.0,Fase de Grupos,Octavos de Final
+Club de Regatas Vasco da Gama,2018,Brasil,63.45,1.1536363636363638,23.9,55,7,1043.0,Fase 2,Fase de Grupos
+Club Atlético Banfield,2018,Argentina,30.18,0.7545,24.2,40,5,902.0,Fase 2,Fase 3
+Club Cerro Porteño,2018,Paraguay,12.15,0.43392857142857144,26.8,28,7,697.0,Fase de Grupos,Octavos de Final
+Atlético Nacional,2018,Colombia,29.3,0.7325,24.0,40,5,1028.0,Fase de Grupos,Octavos de Final
+CA Peñarol,2018,Uruguay,18.18,0.4545,24.0,40,4,456.0,Fase de Grupos,Fase de Grupos
+Junior de Barranquilla,2018,Colombia,29.85,0.694186046511628,24.4,43,5,1028.0,Fase 2,Fase de Grupos
+Club Olimpia Asunción,2018,Paraguay,12.38,0.5895238095238096,27.0,21,5,697.0,Fase 1,Fase 2
+Club Nacional,2018,Uruguay,25.75,0.5988372093023255,24.7,43,6,456.0,Fase 2,Fase de Grupos
+Independiente del Valle,2018,Ecuador,12.75,0.425,22.2,30,4,510.5,Fase 2,Fase 2
+Millonarios FC,2018,Colombia,23.4,0.709090909090909,24.7,33,4,1028.0,Fase de Grupos,Fase de Grupos
+CSD Colo Colo,2018,Chile,19.55,0.48875,23.6,40,10,314.0,Fase de Grupos,Cuartos de Final
+Independiente Santa Fe,2018,Colombia,26.23,0.6902631578947368,26.3,38,5,1028.0,Fase 2,Fase de Grupos
+Club Atlético Tucumán,2018,Argentina,21.9,0.5093023255813953,26.6,43,4,902.0,Fase de Grupos,Cuartos de Final
+Universidad de Chile,2018,Chile,19.35,0.5528571428571429,25.5,35,7,314.0,Fase de Grupos,Fase de Grupos
+CS Emelec,2018,Ecuador,23.9,0.6828571428571428,25.2,35,8,510.5,Fase de Grupos,Fase de Grupos
+Associação Chapecoense de Futebol,2018,Brasil,30.75,0.5913461538461539,24.7,52,5,1043.0,Fase 2,Fase 2
+Club Guaraní,2018,Paraguay,8.35,0.3976190476190476,25.5,21,4,697.0,Fase 2,Fase 3
+Cruzeiro Esporte Clube,2018,Brasil,60.85,1.1931372549019608,24.0,51,6,1043.0,Fase de Grupos,Cuartos de Final
+Bolívar La Paz,2018,Bolivia,7.53,0.2788888888888889,26.9,27,7,408.0,Fase de Grupos,Fase de Grupos
+Delfín SC,2018,Ecuador,13.25,0.37857142857142856,25.6,35,7,510.5,Fase de Grupos,Fase de Grupos
+The Strongest La Paz,2018,Bolivia,3.23,0.11137931034482759,25.2,29,5,408.0,Fase de Grupos,Fase de Grupos
+Universitario de Deportes,2018,Perú,7.08,0.1726829268292683,22.9,41,5,354.0,Fase 1,Fase 1
+Club Alianza Lima,2018,Perú,9.23,0.24945945945945946,23.6,37,5,354.0,Fase de Grupos,Fase de Grupos
+FBC Melgar,2018,Perú,9.55,0.2273809523809524,23.5,42,6,354.0,Fase 2,Fase 2
+Club Deportivo Oriente Petrolero,2018,Bolivia,2.88,0.1252173913043478,26.2,23,7,408.0,Fase 1,Fase 2
+Club Jorge Wilstermann ,2018,Bolivia,3.0,0.13043478260869565,27.7,23,7,408.0,Fase 2,Fase 3
+CD Macará,2018,Ecuador,11.05,0.35645161290322586,24.3,31,6,510.5,Fase 1,Fase 1
+Montevideo Wanderers,2018,Uruguay,7.75,0.2421875,22.8,32,1,456.0,Fase 1,Fase 1
+Cusco FC,2018,Perú,10.35,0.2464285714285714,25.8,42,7,354.0,Fase de Grupos,Fase de Grupos
+Santiago Wanderers,2018,Chile,7.35,0.22272727272727272,24.3,33,6,314.0,Fase 2,Fase 3
+Deportivo Táchira,2018,Venezuela,11.2,0.23829787234042552,22.7,47,6,356.0,Fase 1,Fase 2
+Defensor Sporting Club,2018,Uruguay,11.23,0.3208571428571429,23.0,35,3,456.0,Fase de Grupos,Fase de Grupos
+Monagas SC,2018,Venezuela,8.8,0.22000000000000003,23.5,40,6,356.0,Fase de Grupos,Fase de Grupos
+Universidad Concepción,2018,Chile,11.55,0.29615384615384616,25.6,39,11,314.0,Fase 2,Fase 2
+Deportivo Lara,2018,Venezuela,8.3,0.17659574468085107,23.0,47,5,356.0,Fase de Grupos,Fase de Grupos
+Carabobo FC,2018,Venezuela,7.48,0.1968421052631579,22.8,38,5,356.0,Fase 2,Fase 2
+Clube de Regatas do Flamengo,2017,Brasil,74.95,1.6655555555555557,24.2,45,7,1134.0,Fase de Grupos,Fase de Grupos
+Sociedade Esportiva Palmeiras,2017,Brasil,78.0,1.7727272727272727,25.0,44,3,1134.0,Fase de Grupos,Octavos de Final
+Club Atlético River Plate,2017,Argentina,107.65,2.3922222222222222,24.4,45,8,902.0,Fase de Grupos,Semifinales
+Clube Atlético Mineiro,2017,Brasil,71.98,1.5314893617021277,24.4,47,3,1134.0,Fase de Grupos,Octavos de Final
+Grêmio Foot-Ball Porto Alegrense,2017,Brasil,60.2,0.970967741935484,23.0,62,7,1134.0,Fase de Grupos,Campeón
+Santos FC,2017,Brasil,68.05,1.4793478260869564,23.5,46,4,1134.0,Fase de Grupos,Cuartos de Final
+Club Athletico Paranaense,2017,Brasil,46.0,0.9019607843137255,23.5,51,4,1134.0,Fase 2,Octavos de Final
+Club Atlético Lanús,2017,Argentina,44.65,1.063095238095238,24.8,42,4,902.0,Fase de Grupos,Final
+Club Libertad Asunción,2017,Paraguay,9.18,0.286875,25.1,32,2,721.5,Fase de Grupos,Fase de Grupos
+Club Estudiantes de La Plata,2017,Argentina,30.4,0.8216216216216216,25.0,37,5,902.0,Fase de Grupos,Fase de Grupos
+Club Atlético San Lorenzo de Almagro,2017,Argentina,48.95,1.2237500000000001,25.5,40,2,902.0,Fase de Grupos,Cuartos de Final
+Club Deportivo Godoy Cruz Antonio Tomba,2017,Argentina,41.6,1.1555555555555557,22.8,36,7,902.0,Fase de Grupos,Octavos de Final
+Atlético Nacional,2017,Colombia,38.75,0.7045454545454546,24.0,55,9,918.0,Fase de Grupos,Fase de Grupos
+CA Peñarol,2017,Uruguay,36.83,0.6461403508771929,24.0,57,9,366.0,Fase de Grupos,Fase de Grupos
+Botafogo de Futebol e Regatas,2017,Brasil,31.15,0.6107843137254901,23.4,51,5,1134.0,Fase 2,Cuartos de Final
+Junior de Barranquilla,2017,Colombia,30.23,0.75575,25.6,40,4,918.0,Fase 2,Fase 3
+CD Universidad Católica,2017,Chile,23.8,0.4666666666666667,23.9,51,10,310.0,Fase de Grupos,Fase de Grupos
+Club Olimpia Asunción,2017,Paraguay,16.7,0.506060606060606,25.7,33,8,721.5,Fase 2,Fase 3
+Club Nacional,2017,Uruguay,25.08,0.643076923076923,24.4,39,2,366.0,Fase de Grupos,Octavos de Final
+Independiente del Valle,2017,Ecuador,16.95,0.5296875,22.6,32,4,640.0,Fase 1,Fase 2
+Millonarios FC,2017,Colombia,20.15,0.6296875,25.3,32,5,918.0,Fase 2,Fase 2
+Barcelona SC Guayaquil,2017,Ecuador,24.68,0.6328205128205128,23.4,39,4,640.0,Fase de Grupos,Semifinales
+CSD Colo Colo,2017,Chile,23.6,0.44528301886792454,23.2,53,9,310.0,Fase 2,Fase 2
+Independiente Santa Fe,2017,Colombia,27.13,0.7139473684210526,25.4,38,4,918.0,Fase de Grupos,Fase de Grupos
+Club Atlético Tucumán,2017,Argentina,18.2,0.44390243902439025,26.8,41,5,902.0,Fase 2,Fase de Grupos
+CS Emelec,2017,Ecuador,21.7,0.6027777777777777,24.4,36,6,640.0,Fase de Grupos,Octavos de Final
+Independiente Medellín,2017,Colombia,25.65,0.7124999999999999,25.5,36,4,918.0,Fase de Grupos,Fase de Grupos
+Associação Chapecoense de Futebol,2017,Brasil,35.15,0.6892156862745098,23.9,51,5,1134.0,Fase de Grupos,Fase de Grupos
+Club Guaraní,2017,Paraguay,7.43,0.2396774193548387,27.0,31,5,721.5,Fase de Grupos,Octavos de Final
+Unión Española,2017,Chile,12.8,0.29090909090909095,23.3,44,15,310.0,Fase 2,Fase 3
+The Strongest La Paz,2017,Bolivia,3.95,0.1462962962962963,26.6,27,5,439.0,Fase 2,Octavos de Final
+Club Sporting Cristal,2017,Perú,9.45,0.2779411764705882,23.2,34,7,325.0,Fase de Grupos,Fase de Grupos
+Universitario de Deportes,2017,Perú,8.98,0.23631578947368423,23.7,38,5,325.0,Fase 2,Fase 2
+FBC Melgar,2017,Perú,10.0,0.2631578947368421,24.3,38,5,325.0,Fase de Grupos,Fase de Grupos
+Club Jorge Wilstermann ,2017,Bolivia,4.0,0.15384615384615385,28.3,26,10,439.0,Fase de Grupos,Cuartos de Final
+Deportivo Municipal,2017,Perú,7.88,0.20736842105263156,22.5,38,7,325.0,Fase 1,Fase 1
+Montevideo Wanderers,2017,Uruguay,9.95,0.2426829268292683,22.7,41,0,366.0,Fase 1,Fase 2
+Deportivo Táchira,2017,Venezuela,12.8,0.23703703703703705,24.1,54,5,304.5,Fase 1,Fase 1
+Club Deportes Iquique,2017,Chile,9.4,0.21363636363636365,23.7,44,6,310.0,Fase de Grupos,Fase de Grupos
+Club Atlético Cerro,2017,Uruguay,12.55,0.23679245283018868,24.8,53,8,366.0,Fase 2,Fase 2
+Zamora FC,2017,Venezuela,10.85,0.2411111111111111,23.0,45,7,304.5,Fase de Grupos,Fase de Grupos
+Zulia FC,2017,Venezuela,8.23,0.18704545454545454,22.4,44,4,304.5,Fase de Grupos,Fase de Grupos
+Carabobo FC,2017,Venezuela,7.63,0.18609756097560975,23.1,41,6,304.5,Fase 2,Fase 2
+CD El Nacional,2017,Ecuador,9.75,0.2565789473684211,22.3,38,1,640.0,Fase 2,Fase 2
+Club Universitario de Sucre,2017,Bolivia,0.675,0.037500000000000006,28.2,18,8,439.0,Fase 1,Fase 1
+Deportivo Capiatá,2017,Paraguay,2.3,0.09999999999999999,29.7,23,0,721.5,Fase 1,Fase 3
+Sport Boys Warnes,2017,Bolivia,4.7,0.18076923076923077,28.1,26,7,439.0,Fase de Grupos,Fase de Grupos
+Sociedade Esportiva Palmeiras,2016,Brasil,77.1,1.7522727272727272,25.0,44,5,897.0,Fase de Grupos,Fase de Grupos
+Club Atlético River Plate,2016,Argentina,98.75,2.0572916666666665,24.5,48,8,901.0,Fase de Grupos,Octavos de Final
+Clube Atlético Mineiro,2016,Brasil,78.75,1.4858490566037736,23.4,53,5,897.0,Fase de Grupos,Cuartos de Final
+Club Atlético Boca Juniors,2016,Argentina,86.43,2.4008333333333334,23.6,36,5,901.0,Fase de Grupos,Semifinales
+Grêmio Foot-Ball Porto Alegrense,2016,Brasil,65.78,1.3424489795918368,22.9,49,3,897.0,Fase de Grupos,Octavos de Final
+São Paulo Futebol Clube,2016,Brasil,92.68,1.9308333333333334,23.1,48,8,897.0,Fase 3,Semifinales
+Sport Club Corinthians Paulista,2016,Brasil,66.55,1.5845238095238094,23.4,42,2,897.0,Fase de Grupos,Octavos de Final
+Racing Club,2016,Argentina,66.53,1.1276271186440678,24.6,59,8,901.0,Fase 3,Octavos de Final
+Deportivo Toluca FC,2016,México,32.6,0.8578947368421053,25.0,38,7,682.5,Fase de Grupos,Octavos de Final
+Club Atlético San Lorenzo de Almagro,2016,Argentina,61.58,1.1196363636363635,24.8,55,5,901.0,Fase de Grupos,Fase de Grupos
+Pumas UNAM ,2016,México,35.4,0.8232558139534883,23.7,43,11,682.5,Fase de Grupos,Cuartos de Final
+Club Cerro Porteño,2016,Paraguay,18.2,0.52,25.4,35,4,621.5,Fase de Grupos,Octavos de Final
+Atlético Nacional,2016,Colombia,30.08,0.5371428571428571,22.6,56,4,984.0,Fase de Grupos,Campeón
+CA Peñarol,2016,Uruguay,29.4,0.6533333333333333,24.3,45,6,374.0,Fase de Grupos,Fase de Grupos
+Club Atlético Rosario Central,2016,Argentina,47.83,0.9024528301886792,24.4,53,9,901.0,Fase de Grupos,Cuartos de Final
+Club Puebla,2016,México,29.7,0.6456521739130434,26.1,46,11,682.5,Fase 3,Fase 3
+Club Olimpia Asunción,2016,Paraguay,15.08,0.4864516129032258,25.2,31,2,621.5,Fase de Grupos,Fase de Grupos
+Club Nacional,2016,Uruguay,24.13,0.6521621621621622,24.5,37,3,374.0,Fase de Grupos,Cuartos de Final
+Independiente del Valle,2016,Ecuador,18.6,0.47692307692307695,20.6,39,3,556.0,Fase 3,Final
+Club Atlético Huracán,2016,Argentina,19.88,0.4229787234042553,25.3,47,6,901.0,Fase 3,Octavos de Final
+LDU Quito,2016,Ecuador,35.85,0.7966666666666667,25.3,45,9,556.0,Fase de Grupos,Fase de Grupos
+CSD Colo Colo,2016,Chile,15.83,0.4796969696969697,24.5,33,10,362.5,Fase de Grupos,Fase de Grupos
+Independiente Santa Fe,2016,Colombia,29.25,0.5131578947368421,23.9,57,9,984.0,Fase 3,Fase de Grupos
+Atletico River Plate Montevideo,2016,Uruguay,19.7,0.46904761904761905,23.2,42,6,374.0,Fase 3,Fase de Grupos
+Universidad de Chile,2016,Chile,26.5,0.5096153846153846,23.7,52,9,362.5,Fase 3,Fase 3
+CS Emelec,2016,Ecuador,29.55,0.73875,25.6,40,9,556.0,Fase de Grupos,Fase de Grupos
+Deportivo Cali,2016,Colombia,15.9,0.41842105263157897,22.6,38,5,984.0,Fase de Grupos,Fase de Grupos
+Club Guaraní,2016,Paraguay,3.7,0.1761904761904762,27.0,21,4,621.5,Fase 3,Fase 3
+Bolívar La Paz,2016,Bolivia,8.68,0.263030303030303,26.0,33,10,390.0,Fase de Grupos,Fase de Grupos
+The Strongest La Paz,2016,Bolivia,4.08,0.19428571428571428,27.0,21,6,390.0,Fase de Grupos,Fase de Grupos
+Club Sporting Cristal,2016,Perú,8.98,0.280625,23.2,32,4,340.0,Fase de Grupos,Fase de Grupos
+FBC Melgar,2016,Perú,11.68,0.25955555555555554,24.4,45,10,340.0,Fase de Grupos,Fase de Grupos
+Club Deportivo Oriente Petrolero,2016,Bolivia,4.3,0.1482758620689655,26.0,29,9,390.0,Fase 3,Fase 3
+CD Cobresal,2016,Chile,8.03,0.22305555555555553,24.6,36,6,362.5,Fase de Grupos,Fase de Grupos
+Caracas FC,2016,Venezuela,6.0,0.15,22.9,40,3,414.0,Fase 3,Fase 3
+Universidad César Vallejo,2016,Perú,8.9,0.24722222222222223,24.5,36,4,340.0,Fase 3,Fase 3
+Deportivo Táchira,2016,Venezuela,7.93,0.20333333333333334,23.3,39,4,414.0,Fase de Grupos,Octavos de Final
+Trujillanos FC,2016,Venezuela,3.73,0.09564102564102564,23.5,39,5,414.0,Fase de Grupos,Fase de Grupos
+Club Atlético River Plate,2015,Argentina,105.03,2.334,24.5,45,8,990.0,Fase de Grupos,Campeón
+Clube Atlético Mineiro,2015,Brasil,72.85,1.7345238095238094,25.0,42,3,899.0,Fase de Grupos,Octavos de Final
+Club Atlético Boca Juniors,2015,Argentina,87.7,2.3702702702702703,23.5,37,6,990.0,Fase de Grupos,Octavos de Final
+São Paulo Futebol Clube,2015,Brasil,112.05,2.286734693877551,24.1,49,5,899.0,Fase de Grupos,Octavos de Final
+Sport Club Corinthians Paulista,2015,Brasil,80.9,1.8386363636363638,23.9,44,5,899.0,Fase 3,Octavos de Final
+Tigres UANL,2015,México,55.6,1.0901960784313727,24.3,51,13,595.5,Fase de Grupos,Final
+Sport Club Internacional,2015,Brasil,83.0,1.509090909090909,23.5,55,5,899.0,Fase de Grupos,Semifinales
+Atlas Guadalajara,2015,México,34.4,0.819047619047619,25.8,42,11,595.5,Fase de Grupos,Fase de Grupos
+Racing Club,2015,Argentina,40.25,1.1838235294117647,25.7,34,4,990.0,Fase de Grupos,Cuartos de Final
+Club Libertad Asunción,2015,Paraguay,8.98,0.2040909090909091,24.2,44,5,709.0,Fase de Grupos,Fase de Grupos
+Club Estudiantes de La Plata,2015,Argentina,25.6,0.7529411764705882,22.6,34,4,990.0,Fase 3,Octavos de Final
+Club Atlético San Lorenzo de Almagro,2015,Argentina,50.65,1.2662499999999999,25.3,40,7,990.0,Fase de Grupos,Fase de Grupos
+Club Cerro Porteño,2015,Paraguay,10.5,0.3181818181818182,25.4,33,2,709.0,Fase 3,Fase 3
+Atlético Nacional,2015,Colombia,26.6,0.6045454545454546,25.4,44,4,711.0,Fase de Grupos,Octavos de Final
+Club Nacional,2015,Uruguay,24.0,0.48,24.9,50,5,413,Fase 3,Fase 3
+Independiente del Valle,2015,Ecuador,23.4,0.5571428571428572,22.1,42,5,601.0,Fase 3,Fase 3
+Club Atlético Huracán,2015,Argentina,25.28,0.6482051282051282,26.9,39,2,990.0,Fase 3,Fase de Grupos
+Barcelona SC Guayaquil,2015,Ecuador,38.3,0.7365384615384615,24.9,52,10,601.0,Fase de Grupos,Fase de Grupos
+CSD Colo Colo,2015,Chile,14.95,0.40405405405405403,24.0,37,6,476.0,Fase de Grupos,Fase de Grupos
+Independiente Santa Fe,2015,Colombia,18.23,0.45575,24.4,40,5,711.0,Fase de Grupos,Cuartos de Final
+Universidad de Chile,2015,Chile,20.63,0.5428947368421052,24.9,38,8,476.0,Fase de Grupos,Fase de Grupos
+CS Emelec,2015,Ecuador,25.2,0.681081081081081,24.0,37,7,601.0,Fase de Grupos,Cuartos de Final
+Club Guaraní,2015,Paraguay,5.98,0.2214814814814815,26.9,27,4,709.0,Fase de Grupos,Semifinales
+Cruzeiro Esporte Clube,2015,Brasil,100.6,2.1869565217391305,24.1,46,6,899.0,Fase de Grupos,Cuartos de Final
+Once Caldas,2015,Colombia,8.05,0.2175675675675676,24.4,37,7,711.0,Fase 3,Fase 3
+CD Palestino,2015,Chile,3.78,0.09219512195121951,22.7,41,10,476.0,Fase 3,Fase de Grupos
+The Strongest La Paz,2015,Bolivia,2.45,0.07,27.2,35,10,425.5,Fase 3,Fase de Grupos
+Club Sporting Cristal,2015,Perú,10.5,0.3181818181818182,24.3,33,5,322.5,Fase de Grupos,Fase de Grupos
+Club Alianza Lima,2015,Perú,13.18,0.29954545454545456,23.0,44,5,322.5,Fase 3,Fase 3
+Club Atlético Morelia,2015,México,40.55,0.7372727272727272,24.8,55,14,595.5,Fase 3,Fase 3
+Montevideo Wanderers,2015,Uruguay,12.68,0.3092682926829268,21.5,41,1,413,Fase de Grupos,Octavos de Final
+Deportivo Táchira,2015,Venezuela,2.58,0.09923076923076923,23.9,26,3,387,Fase 3,Fase de Grupos
+Danubio FC,2015,Uruguay,18.9,0.40212765957446805,22.5,47,4,413,Fase de Grupos,Fase de Grupos
+Zamora FC,2015,Venezuela,0.45,0.013235294117647059,23.8,34,6,387,Fase de Grupos,Fase de Grupos
+Club Juan Aurich,2015,Perú,8.73,0.2645454545454546,23.0,33,5,322.5,Fase de Grupos,Fase de Grupos
+Mineros de Guayana,2015,Venezuela,3.1,0.11481481481481481,25.6,27,3,387,Fase de Grupos,Fase de Grupos
+Club Deportivo San José Oruro,2015,Bolivia,2.88,0.08470588235294117,27.2,34,14,425.5,Fase de Grupos,Fase de Grupos
+Club Universitario de Sucre,2015,Bolivia,4.55,0.1058139534883721,26.7,43,16,425.5,Fase de Grupos,Octavos de Final
+Clube de Regatas do Flamengo,2014,Brasil,33.1,0.7522727272727273,23.6,44,6,893.0,Fase de Grupos,Fase de Grupos
+Clube Atlético Mineiro,2014,Brasil,64.55,1.3173469387755101,24.9,49,2,893.0,Fase de Grupos,Octavos de Final
+Grêmio Foot-Ball Porto Alegrense,2014,Brasil,51.0,1.1590909090909092,22.2,44,5,893.0,Fase de Grupos,Octavos de Final
+Santos Laguna,2014,México,31.55,0.8527027027027028,22.7,37,9,653.5,Fase de Grupos,Octavos de Final
+Club Atlético Vélez Sarsfield,2014,Argentina,28.5,0.5377358490566038,21.7,53,4,938.0,Fase de Grupos,Octavos de Final
+Club Athletico Paranaense,2014,Brasil,13.75,0.29891304347826086,22.0,46,3,893.0,Fase 3,Fase de Grupos
+Club Atlético Lanús,2014,Argentina,31.12,0.740952380952381,24.1,42,5,938.0,Fase 3,Cuartos de Final
+Club León FC,2014,México,31.9,0.6934782608695652,22.9,46,11,653.5,Fase de Grupos,Octavos de Final
+Club Atlético San Lorenzo de Almagro,2014,Argentina,39.73,1.135142857142857,25.6,35,5,938.0,Fase de Grupos,Campeón
+Club Atlético Newell's Old Boys,2014,Argentina,32.67,0.6405882352941177,23.2,51,3,938.0,Fase de Grupos,Fase de Grupos
+Club Cerro Porteño,2014,Paraguay,9.35,0.2597222222222222,24.3,36,3,671.5,Fase de Grupos,Octavos de Final
+Atlético Nacional,2014,Colombia,20.9,0.48604651162790696,23.7,43,2,697.5,Fase de Grupos,Cuartos de Final
+CA Peñarol,2014,Uruguay,21.0,0.4772727272727273,25.8,44,6,452.5,Fase de Grupos,Fase de Grupos
+Botafogo de Futebol e Regatas,2014,Brasil,35.35,0.6931372549019608,23.9,51,6,893.0,Fase 3,Fase de Grupos
+Club Nacional,2014,Uruguay,17.98,0.46102564102564103,24.5,39,4,452.5,Fase 3,Fase de Grupos
+Independiente del Valle,2014,Ecuador,19.05,0.7055555555555556,22.4,27,5,627.5,Fase de Grupos,Fase de Grupos
+Independiente Santa Fe,2014,Colombia,15.88,0.4411111111111111,25.5,36,5,697.5,Fase 3,Fase de Grupos
+Universidad de Chile,2014,Chile,20.93,0.5104878048780488,22.7,41,10,552.0,Fase 3,Fase de Grupos
+CS Emelec,2014,Ecuador,28.13,0.6697619047619048,23.5,42,8,627.5,Fase de Grupos,Fase de Grupos
+Deportivo Cali,2014,Colombia,18.05,0.353921568627451,23.6,51,7,697.5,Fase de Grupos,Fase de Grupos
+Club Guaraní,2014,Paraguay,5.23,0.20920000000000002,25.6,25,7,671.5,Fase 3,Fase 3
+Cruzeiro Esporte Clube,2014,Brasil,55.65,1.325,24.4,42,4,893.0,Fase de Grupos,Cuartos de Final
+Bolívar La Paz,2014,Bolivia,6.93,0.25666666666666665,26.4,27,9,461.0,Fase de Grupos,Semifinales
+Unión Española,2014,Chile,10.88,0.3509677419354839,24.1,31,10,552.0,Fase de Grupos,Octavos de Final
+The Strongest La Paz,2014,Bolivia,1.13,0.04185185185185185,26.3,27,7,461.0,Fase de Grupos,Octavos de Final
+Club Sporting Cristal,2014,Perú,5.65,0.1765625,23.5,32,4,305.5,Fase 3,Fase 3
+Universitario de Deportes,2014,Perú,4.33,0.10069767441860465,21.6,43,6,305.5,Fase de Grupos,Fase de Grupos
+Club Nacional Asunción,2014,Paraguay,4.75,0.16964285714285715,25.6,28,1,671.5,Fase de Grupos,Final
+Club Deportivo Oriente Petrolero,2014,Bolivia,4.2,0.16153846153846155,26.4,26,8,461.0,Fase 3,Fase 3
+Arsenal Fútbol Club,2014,Argentina,28.95,0.5676470588235294,23.8,51,9,938.0,Fase de Grupos,Cuartos de Final
+Club Atlético Morelia,2014,México,41.7,0.8340000000000001,25.0,50,10,653.5,Fase 3,Fase 3
+Caracas FC,2014,Venezuela,1.03,0.039615384615384615,23.6,26,1,360.5,Fase 3,Fase 3
+CD O'Higgins,2014,Chile,9.05,0.24459459459459462,23.7,37,8,552.0,Fase de Grupos,Fase de Grupos
+Cusco FC,2014,Perú,3.58,0.0895,25.3,40,7,305.5,Fase de Grupos,Fase de Grupos
+Defensor Sporting Club,2014,Uruguay,17.63,0.40068181818181814,23.1,44,2,452.5,Fase de Grupos,Semifinales
+Zamora FC,2014,Venezuela,1.35,0.05625,24.4,24,6,360.5,Fase de Grupos,Fase de Grupos
+Deportivo Quito,2014,Ecuador,10.5,0.22826086956521738,23.3,46,3,627.5,Fase 3,Fase 3
+Deportivo Anzoátegui SC,2014,Venezuela,1.85,0.05,24.7,37,6,360.5,Fase de Grupos,Fase de Grupos
+Sociedade Esportiva Palmeiras,2013,Brasil,49.15,0.7123188405797102,23.9,69,6,896.0,Fase de Grupos,Octavos de Final
+Clube Atlético Mineiro,2013,Brasil,51.1,1.1108695652173914,24.3,46,1,896.0,Fase de Grupos,Campeón
+Club Atlético Boca Juniors,2013,Argentina,52.75,0.8940677966101694,23.5,59,3,868.0,Fase de Grupos,Cuartos de Final
+Grêmio Foot-Ball Porto Alegrense,2013,Brasil,70.0,1.2962962962962963,23.8,54,6,896.0,Fase 3,Octavos de Final
+São Paulo Futebol Clube,2013,Brasil,117.55,2.2179245283018867,23.3,53,4,896.0,Fase 3,Octavos de Final
+Sport Club Corinthians Paulista,2013,Brasil,74.05,1.5755319148936169,24.0,47,5,896.0,Fase de Grupos,Octavos de Final
+Club Atlético Vélez Sarsfield,2013,Argentina,37.23,0.93075,22.5,40,4,868.0,Fase de Grupos,Octavos de Final
+Fluminense Football Club,2013,Brasil,86.1,1.5944444444444443,22.7,54,7,896.0,Fase de Grupos,Cuartos de Final
+Club León FC,2013,México,25.15,0.6448717948717948,24.3,39,7,678.5,Fase 3,Fase 3
+Club Libertad Asunción,2013,Paraguay,9.33,0.27441176470588236,24.0,34,4,721.0,Fase de Grupos,Fase de Grupos
+Deportivo Toluca FC,2013,México,30.75,0.9919354838709677,25.3,31,5,678.5,Fase de Grupos,Fase de Grupos
+Club Tijuana,2013,México,31.2,0.7999999999999999,25.0,39,13,678.5,Fase de Grupos,Cuartos de Final
+Club Atlético Newell's Old Boys,2013,Argentina,32.17,0.7846341463414634,24.5,41,6,868.0,Fase de Grupos,Semifinales
+Club Cerro Porteño,2013,Paraguay,13.98,0.3251162790697675,25.3,43,10,721.0,Fase de Grupos,Fase de Grupos
+CA Peñarol,2013,Uruguay,21.35,0.4542553191489362,24.7,47,5,429.0,Fase de Grupos,Fase de Grupos
+Club Olimpia Asunción,2013,Paraguay,14.98,0.4048648648648649,26.0,37,9,721.0,Fase 3,Final
+Deportes Tolima,2013,Colombia,18.9,0.40212765957446805,24.5,47,8,724.5,Fase 3,Fase de Grupos
+Club Nacional,2013,Uruguay,21.78,0.5584615384615385,24.7,39,3,429.0,Fase de Grupos,Octavos de Final
+Millonarios FC,2013,Colombia,27.1,0.615909090909091,24.5,44,7,724.5,Fase de Grupos,Fase de Grupos
+LDU Quito,2013,Ecuador,15.05,0.3960526315789474,24.7,38,7,587.5,Fase 3,Fase 3
+Barcelona SC Guayaquil,2013,Ecuador,18.85,0.42840909090909096,24.3,44,10,587.5,Fase de Grupos,Fase de Grupos
+Independiente Santa Fe,2013,Colombia,23.2,0.49361702127659574,24.3,47,7,724.5,Fase de Grupos,Semifinales
+Universidad de Chile,2013,Chile,18.88,0.4290909090909091,22.1,44,11,621.5,Fase de Grupos,Fase de Grupos
+CS Emelec,2013,Ecuador,9.65,0.22976190476190478,23.4,42,6,587.5,Fase de Grupos,Octavos de Final
+Bolívar La Paz,2013,Bolivia,3.3,0.18333333333333332,26.1,18,4,370.0,Fase 3,Fase 3
+Club Deportivo Huachipato,2013,Chile,8.0,0.22857142857142856,24.2,35,8,621.5,Fase de Grupos,Fase de Grupos
+Club Atlético Tigre,2013,Argentina,16.78,0.41950000000000004,25.0,40,2,868.0,Fase 3,Octavos de Final
+The Strongest La Paz,2013,Bolivia,1.48,0.05285714285714286,26.0,28,8,370.0,Fase de Grupos,Fase de Grupos
+Club Sporting Cristal,2013,Perú,6.85,0.18513513513513513,23.4,37,4,384.0,Fase de Grupos,Fase de Grupos
+Arsenal Fútbol Club,2013,Argentina,23.95,0.59875,23.9,40,2,868.0,Fase de Grupos,Fase de Grupos
+Caracas FC,2013,Venezuela,4.48,0.12444444444444445,22.6,36,5,351.0,Fase de Grupos,Fase de Grupos
+Cusco FC,2013,Perú,2.68,0.08375,25.0,32,8,384.0,Fase de Grupos,Cuartos de Final
+Universidad César Vallejo,2013,Perú,5.73,0.17363636363636364,26.3,33,4,384.0,Fase 3,Fase 3
+Defensor Sporting Club,2013,Uruguay,15.15,0.3695121951219512,22.9,41,5,429.0,Fase 3,Fase 3
+Club Deportes Iquique,2013,Chile,9.53,0.2027659574468085,23.9,47,8,621.5,Fase 3,Fase de Grupos
+Deportivo Lara,2013,Venezuela,2.43,0.07363636363636364,25.9,33,6,351.0,Fase de Grupos,Fase de Grupos
+Club Deportivo San José Oruro,2013,Bolivia,2.25,0.09375,26.9,24,5,370.0,Fase de Grupos,Fase de Grupos
+Deportivo Anzoátegui SC,2013,Venezuela,2.53,0.061707317073170724,24.0,41,10,351.0,Fase 3,Fase 3
+Clube de Regatas do Flamengo,2012,Brasil,58.3,0.9557377049180328,23.6,61,6,1058.0,Fase 3,Fase de Grupos
+Club Atlético Boca Juniors,2012,Argentina,38.09,0.7468627450980393,23.4,51,4,919.0,Fase de Grupos,Final
+CD Cruz Azul,2012,México,35.65,1.048529411764706,25.2,34,5,614.5,Fase de Grupos,Octavos de Final
+Sport Club Corinthians Paulista,2012,Brasil,66.55,1.478888888888889,23.9,45,6,1058.0,Fase de Grupos,Campeón
+Tigres UANL,2012,México,39.25,1.1893939393939394,23.7,33,7,614.5,Fase 3,Fase 3
+Club Atlético Vélez Sarsfield,2012,Argentina,43.85,1.0695121951219513,22.3,41,2,919.0,Fase de Grupos,Cuartos de Final
+Sport Club Internacional,2012,Brasil,74.1,1.2349999999999999,23.2,60,6,1058.0,Fase 3,Octavos de Final
+Santos FC,2012,Brasil,111.65,2.1066037735849057,22.6,53,6,1058.0,Fase de Grupos,Semifinales
+Club Atlético Lanús,2012,Argentina,36.88,0.8381818181818183,23.0,44,5,919.0,Fase de Grupos,Octavos de Final
+Fluminense Football Club,2012,Brasil,48.9,1.1113636363636363,22.6,44,4,1058.0,Fase de Grupos,Cuartos de Final
+CD Guadalajara,2012,México,31.9,0.996875,21.9,32,0,614.5,Fase de Grupos,Fase de Grupos
+Club Libertad Asunción,2012,Paraguay,12.03,0.40099999999999997,24.8,30,7,712.5,Fase de Grupos,Cuartos de Final
+Club de Regatas Vasco da Gama,2012,Brasil,45.5,0.7583333333333333,23.8,60,3,1058.0,Fase de Grupos,Cuartos de Final
+Club Deportivo Godoy Cruz Antonio Tomba,2012,Argentina,18.43,0.4981081081081081,24.3,37,4,919.0,Fase de Grupos,Fase de Grupos
+Atlético Nacional,2012,Colombia,26.3,0.7108108108108109,23.5,37,4,589.0,Fase de Grupos,Octavos de Final
+CA Peñarol,2012,Uruguay,18.35,0.47051282051282056,23.3,39,6,493.0,Fase 3,Fase de Grupos
+Junior de Barranquilla,2012,Colombia,19.9,0.5378378378378378,24.3,37,2,589.0,Fase de Grupos,Fase de Grupos
+CD Universidad Católica,2012,Chile,24.3,0.45849056603773586,22.7,53,9,711.5,Fase de Grupos,Fase de Grupos
+Club Olimpia Asunción,2012,Paraguay,15.93,0.4551428571428571,25.5,35,12,712.5,Fase de Grupos,Fase de Grupos
+Club Nacional,2012,Uruguay,22.8,0.5066666666666667,24.3,45,8,493.0,Fase de Grupos,Fase de Grupos
+Universidad de Chile,2012,Chile,24.08,0.602,21.5,40,10,711.5,Fase de Grupos,Semifinales
+CS Emelec,2012,Ecuador,7.8,0.1625,24.9,48,8,688.0,Fase de Grupos,Octavos de Final
+Bolívar La Paz,2012,Bolivia,3.95,0.17173913043478262,24.4,23,5,387.0,Fase de Grupos,Octavos de Final
+Unión Española,2012,Chile,10.88,0.3108571428571429,22.6,35,8,711.5,Fase 3,Octavos de Final
+Once Caldas,2012,Colombia,17.85,0.31315789473684214,22.6,57,7,589.0,Fase 3,Fase 3
+The Strongest La Paz,2012,Bolivia,1.65,0.066,27.0,25,8,387.0,Fase de Grupos,Fase de Grupos
+Club Nacional Asunción,2012,Paraguay,7.3,0.2517241379310345,26.3,29,5,712.5,Fase de Grupos,Fase de Grupos
+Club Alianza Lima,2012,Perú,9.6,0.17142857142857143,21.4,56,7,445.5,Fase de Grupos,Fase de Grupos
+Arsenal Fútbol Club,2012,Argentina,29.29,0.8614705882352941,24.8,34,3,919.0,Fase 3,Fase de Grupos
+Sport Huancayo,2012,Perú,3.0,0.0625,23.0,48,6,445.5,Fase 3,Fase 3
+Caracas FC,2012,Venezuela,4.85,0.13472222222222222,22.4,36,4,290.0,Fase 3,Fase 3
+Deportivo Táchira,2012,Venezuela,8.55,0.19,24.5,45,10,290.0,Fase de Grupos,Fase de Grupos
+Defensor Sporting Club,2012,Uruguay,13.2,0.388235294117647,23.1,34,2,493.0,Fase de Grupos,Fase de Grupos
+Real Potosí,2012,Bolivia,0.075,0.003947368421052632,25.3,19,7,387.0,Fase 3,Fase 3
+Zamora FC,2012,Venezuela,1.03,0.026410256410256412,24.5,39,8,290.0,Fase de Grupos,Fase de Grupos
+Club Juan Aurich,2012,Perú,8.28,0.1562264150943396,23.8,53,8,445.5,Fase de Grupos,Fase de Grupos
+CD El Nacional,2012,Ecuador,0.7,0.018421052631578946,21.9,38,0,688.0,Fase 3,Fase 3
+Deportivo Quito,2012,Ecuador,8.0,0.15384615384615385,24.1,52,11,688.0,Fase de Grupos,Octavos de Final
+Grêmio Foot-Ball Porto Alegrense,2011,Brasil,67.1,1.1372881355932203,23.6,59,4,889.0,Fase 3,Octavos de Final
+CF América,2011,México,41.4,1.1828571428571428,24.4,35,6,629.0,Fase de Grupos,Octavos de Final
+Sport Club Corinthians Paulista,2011,Brasil,56.9,1.115686274509804,23.6,51,4,889.0,Fase 3,Fase 3
+Club Atlético Vélez Sarsfield,2011,Argentina,35.03,0.854390243902439,23.8,41,4,840.0,Fase de Grupos,Semifinales
+Sport Club Internacional,2011,Brasil,61.5,1.0081967213114753,23.4,61,7,889.0,Fase de Grupos,Octavos de Final
+Santos FC,2011,Brasil,114.25,1.731060606060606,22.2,66,4,889.0,Fase de Grupos,Campeón
+Fluminense Football Club,2011,Brasil,55.7,1.0921568627450982,23.8,51,6,889.0,Fase de Grupos,Octavos de Final
+Club Atlético Independiente,2011,Argentina,44.23,0.8845999999999999,24.6,50,8,840.0,Fase 3,Fase de Grupos
+Club Libertad Asunción,2011,Paraguay,15.2,0.4108108108108108,24.2,37,7,725.0,Fase de Grupos,Cuartos de Final
+Club Estudiantes de La Plata,2011,Argentina,35.4,0.8634146341463415,23.9,41,6,840.0,Fase de Grupos,Octavos de Final
+Asociación Atlética Argentinos Juniors,2011,Argentina,18.03,0.34018867924528307,22.7,53,6,840.0,Fase de Grupos,Fase de Grupos
+Club Deportivo Godoy Cruz Antonio Tomba,2011,Argentina,20.93,0.5366666666666666,24.7,39,4,840.0,Fase de Grupos,Fase de Grupos
+Club Cerro Porteño,2011,Paraguay,9.93,0.3103125,23.8,32,6,725.0,Fase de Grupos,Semifinales
+CA Peñarol,2011,Uruguay,21.08,0.49023255813953487,23.3,43,7,426.5,Fase de Grupos,Final
+Junior de Barranquilla,2011,Colombia,14.95,0.3833333333333333,23.7,39,2,617.0,Fase de Grupos,Octavos de Final
+CD Universidad Católica,2011,Chile,17.45,0.39659090909090905,22.8,44,10,741.5,Fase de Grupos,Cuartos de Final
+Deportes Tolima,2011,Colombia,21.23,0.433265306122449,25.2,49,10,617.0,Fase 3,Fase de Grupos
+Club Nacional,2011,Uruguay,25.35,0.5393617021276597,23.2,47,10,426.5,Fase de Grupos,Fase de Grupos
+LDU Quito,2011,Ecuador,18.48,0.44,26.1,42,8,619.5,Fase de Grupos,Octavos de Final
+CSD Colo Colo,2011,Chile,23.43,0.5578571428571428,23.7,42,9,741.5,Fase de Grupos,Fase de Grupos
+CS Emelec,2011,Ecuador,7.9,0.1926829268292683,24.9,41,9,619.5,Fase de Grupos,Fase de Grupos
+Club Guaraní,2011,Paraguay,6.33,0.1472093023255814,25.0,43,14,725.0,Fase de Grupos,Fase de Grupos
+Cruzeiro Esporte Clube,2011,Brasil,64.15,1.2830000000000001,23.4,50,5,889.0,Fase de Grupos,Octavos de Final
+Bolívar La Paz,2011,Bolivia,4.85,0.18653846153846151,25.4,26,7,307.0,Fase 3,Fase 3
+Unión Española,2011,Chile,11.2,0.32941176470588235,24.5,34,8,741.5,Fase 3,Fase de Grupos
+Once Caldas,2011,Colombia,10.93,0.26658536585365855,23.1,41,4,617.0,Fase de Grupos,Cuartos de Final
+Liverpool FC Montevideo,2011,Uruguay,9.88,0.30875,23.6,32,3,426.5,Fase 3,Fase 3
+Club Alianza Lima,2011,Perú,9.15,0.21785714285714286,23.1,42,9,380.0,Fase 3,Fase 3
+Club Deportivo Oriente Petrolero,2011,Bolivia,2.75,0.07857142857142857,24.3,35,9,307.0,Fase de Grupos,Fase de Grupos
+Club Jorge Wilstermann ,2011,Bolivia,1.4,0.04242424242424242,24.5,33,16,307.0,Fase de Grupos,Fase de Grupos
+Caracas FC,2011,Venezuela,4.75,0.12179487179487179,23.8,39,6,290.0,Fase de Grupos,Fase de Grupos
+Universidad San Martín de Porres,2011,Perú,8.0,0.21052631578947367,24.2,38,8,380.0,Fase de Grupos,Fase de Grupos
+Deportivo Táchira,2011,Venezuela,7.55,0.24354838709677418,25.0,31,4,290.0,Fase de Grupos,Fase de Grupos
+Deportivo Quito,2011,Ecuador,10.85,0.2358695652173913,26.4,46,11,619.5,Fase 3,Fase 3
+Deportivo Petare FC,2011,Venezuela,0.3,0.010344827586206896,24.2,29,4,290.0,Fase 3,Fase 3
+CD León de Huánuco,2011,Perú,5.05,0.11477272727272726,25.5,44,6,380.0,Fase de Grupos,Fase de Grupos
+Chiapas FC,2011,México,37.0,1.088235294117647,25.4,34,8,629.0,Fase 3,Cuartos de Final
+San Luis FC,2011,México,25.3,0.7441176470588236,25.2,34,8,629.0,Fase de Grupos,Fase de Grupos
+Clube de Regatas do Flamengo,2010,Brasil,75.0,1.3392857142857142,24.0,56,6,982.0,Fase de Grupos,Cuartos de Final
+São Paulo Futebol Clube,2010,Brasil,78.3,1.9575,24.2,40,2,982.0,Fase de Grupos,Semifinales
+CF Monterrey,2010,México,54.45,1.5125000000000002,25.1,36,8,690.0,Fase de Grupos,Fase de Grupos
+Sport Club Corinthians Paulista,2010,Brasil,48.55,1.1559523809523808,24.1,42,5,982.0,Fase de Grupos,Fase de Grupos
+Club Atlético Vélez Sarsfield,2010,Argentina,50.23,1.3575675675675676,23.7,37,3,861.0,Fase de Grupos,Octavos de Final
+Sport Club Internacional,2010,Brasil,94.9,1.555737704918033,23.7,61,6,982.0,Fase de Grupos,Campeón
+Club Atlético Lanús,2010,Argentina,39.0,0.975,23.7,40,5,861.0,Fase de Grupos,Fase de Grupos
+CD Guadalajara,2010,México,40.2,1.1485714285714286,22.4,35,0,690.0,Octavos de Final,Final
+Club Atlético Colón,2010,Argentina,21.63,0.618,24.2,35,5,861.0,Fase 3,Fase 3
+Club Libertad Asunción,2010,Paraguay,6.0,0.15384615384615385,22.4,39,3,611.0,Fase de Grupos,Cuartos de Final
+Club Estudiantes de La Plata,2010,Argentina,49.1,1.1690476190476191,24.2,42,5,861.0,Fase de Grupos,Cuartos de Final
+Club Atlético Newell's Old Boys,2010,Argentina,23.4,0.5571428571428572,23.6,42,6,861.0,Fase 3,Fase 3
+Club Atlético Banfield,2010,Argentina,23.98,0.5995,23.8,40,4,861.0,Fase de Grupos,Octavos de Final
+Club Cerro Porteño,2010,Paraguay,13.53,0.30066666666666664,23.5,45,6,611.0,Fase de Grupos,Fase de Grupos
+Junior de Barranquilla,2010,Colombia,17.73,0.45461538461538464,25.7,39,3,585.5,Fase 3,Fase 3
+CD Universidad Católica,2010,Chile,22.53,0.5928947368421053,23.9,38,10,585.5,Fase 3,Fase de Grupos
+Club Nacional,2010,Uruguay,13.55,0.4370967741935484,23.2,31,4,522.5,Fase de Grupos,Octavos de Final
+CSD Colo Colo,2010,Chile,23.85,0.6814285714285715,23.9,35,11,585.5,Fase de Grupos,Fase de Grupos
+Universidad de Chile,2010,Chile,20.08,0.5284210526315789,23.5,38,10,585.5,Fase de Grupos,Semifinales
+CS Emelec,2010,Ecuador,8.5,0.24285714285714285,24.8,35,9,662.5,Fase 3,Fase de Grupos
+Independiente Medellín,2010,Colombia,19.6,0.49000000000000005,23.0,40,7,585.5,Fase de Grupos,Fase de Grupos
+Cruzeiro Esporte Clube,2010,Brasil,58.05,1.2351063829787234,23.4,47,5,982.0,Fase 3,Cuartos de Final
+Bolívar La Paz,2010,Bolivia,3.6,0.16363636363636364,25.4,22,6,359.0,Fase de Grupos,Fase de Grupos
+Once Caldas,2010,Colombia,17.73,0.3772340425531915,23.3,47,4,585.5,Fase de Grupos,Octavos de Final
+Universitario de Deportes,2010,Perú,7.2,0.2057142857142857,23.3,35,4,624.5,Fase de Grupos,Octavos de Final
+Club Nacional Asunción,2010,Paraguay,3.65,0.14038461538461539,24.8,26,2,611.0,Fase de Grupos,Fase de Grupos
+Club Alianza Lima,2010,Perú,10.73,0.26825,24.0,40,6,624.5,Fase de Grupos,Octavos de Final
+Deportivo Cuenca,2010,Ecuador,5.18,0.14388888888888887,24.3,36,4,662.5,Fase de Grupos,Fase de Grupos
+Club Atlético Morelia,2010,México,34.35,0.9541666666666667,24.0,36,7,690.0,Fase de Grupos,Fase de Grupos
+Caracas FC,2010,Venezuela,3.78,0.105,24.9,36,5,295.5,Fase de Grupos,Fase de Grupos
+Deportivo Táchira,2010,Venezuela,4.28,0.14266666666666666,25.1,30,5,295.5,Fase 3,Fase 3
+Blooming Santa Cruz,2010,Bolivia,3.25,0.10483870967741936,24.7,31,10,359.0,Fase de Grupos,Fase de Grupos
+Real Potosí,2010,Bolivia,0.05,0.002272727272727,26.3,22,7,359.0,Fase 3,Fase 3
+Racing Club de Montevideo,2010,Uruguay,6.38,0.1635897435897436,23.9,39,0,522.5,Fase 3,Fase de Grupos
+Club Atlético Cerro,2010,Uruguay,8.18,0.21526315789473682,24.0,38,2,522.5,Fase de Grupos,Fase de Grupos
+Club Juan Aurich,2010,Perú,8.75,0.26515151515151514,25.8,33,5,624.5,Fase 3,Fase de Grupos
+Deportivo Quito,2010,Ecuador,9.6,0.2823529411764706,25.5,34,7,662.5,Fase de Grupos,Fase de Grupos
+Tecos FC,2010,México,24.65,0.7703125,25.6,32,9,690.0,Fase 3,Fase 3
+Deportivo Italia,2010,Venezuela,0.95,0.03166666666666666,26.6,30,7,295.5,Fase de Grupos,Fase de Grupos
+San Luis FC,2010,México,30.25,0.8175675675675675,25.9,37,10,690.0,Octavos de Final,Octavos de Final
